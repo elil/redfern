@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "id": null, "name": "violet" }, "geometry": { "type": "Point", "coordinates": [ -13809819.6366, 5564466.2037 ] } },
-{ "type": "Feature", "properties": { "id": null, "name": "red" }, "geometry": { "type": "Point", "coordinates": [ -13809069.0694, 5566238.5017 ] } },
-{ "type": "Feature", "properties": { "id": null, "name": "blue" }, "geometry": { "type": "Point", "coordinates": [ -13808955.3556, 5566294.9353 ] } }
+{ "type": "Feature", "properties": { "id": null, "name": "violet" }, "geometry": { "type": "Point", "coordinates": [ -124.0557, 44.6364 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "red" }, "geometry": { "type": "Point", "coordinates": [ -124.049, 44.6478 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "blue" }, "geometry": { "type": "Point", "coordinates": [ -124.048, 44.6481 ] } }
 ]
 }
