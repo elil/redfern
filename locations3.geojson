@@ -4,7 +4,12 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "red"
+                "name": "red",
+                "title": "Title here",
+                "description": "red fern",
+                "marker-size": "medium",
+                "marker-symbol": "park2",
+                "marker-color": "#933",
             },
             "geometry": {
                 "type": "Point",
