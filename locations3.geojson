@@ -9,7 +9,7 @@
                 "description": "red fern",
                 "marker-size": "medium",
                 "marker-symbol": "park2",
-                "marker-color": "#933",
+                "marker-color": "#933"
             },
             "geometry": {
                 "type": "Point",
