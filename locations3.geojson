@@ -1,36 +1,41 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "red",
-                "title": "Title here",
-                "description": "red fern",
-                "marker-size": "medium",
-                "marker-symbol": "park2",
-                "marker-color": "#933"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -124.04901266098537,
-                    44.64781206259955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "violet"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -124.04796391725542,
-                    44.648129782094884
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "red",
+        "title": "Title here",
+        "description": "red fern",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "marker-color": "#933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04901266098537,
+          44.64781206259955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "violet",
+        "title": "Title",
+        "description": "A violet red fern!",
+        "marker-size": "large",
+        "marker-symbol": 1,
+        "marker-color": "#393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04796391725542,
+          44.648129782094884
+        ]
+      }
+    }
+  ]
 }
